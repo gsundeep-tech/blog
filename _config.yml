@@ -1,10 +1,10 @@
 # Site settings
-title:       Blog
+title:       Home
 email:       gsundeep.tech@gmail.com
 author:      Sundeep Gullapudi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/"
-url:         "http://gsundeep.in"
+url:         "http://blog.gsundeep.in"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
