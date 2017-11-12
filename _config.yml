@@ -3,8 +3,8 @@ title:       Blog
 email:       gsundeep.tech@gmail.com
 author:      Sundeep Gullapudi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/blog/"
-url:         "http://pixyll.com"
+baseurl:     "/blog"
+url:         "http://gsundeep.in"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
