@@ -1,3 +1,6 @@
+url: https://blog.gsundeep.in
+enforce_ssl: blog.gsundeep.in
+
 # Site settings
 title:       Home
 email:       gsundeep.tech@gmail.com
