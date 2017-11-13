@@ -132,5 +132,5 @@ exclude:
   - vendor
   
 # For SSL Configuration:
-url: https://blog.gsundeep.in
-enforce_ssl: blog.gsundeep.in
+# url: https://blog.gsundeep.in
+# enforce_ssl: blog.gsundeep.in
