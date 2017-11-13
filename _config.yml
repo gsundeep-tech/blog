@@ -4,7 +4,7 @@ email:       gsundeep.tech@gmail.com
 author:      Sundeep Gullapudi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/"
-url:         "http://blog.gsundeep.in"
+url:         "https://blog.gsundeep.in"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -130,3 +130,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  
+# For SSL Configuration:
+url: https://blog.gsundeep.in
+enforce_ssl: blog.gsundeep.in
