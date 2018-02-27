@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing Version 2.0
-date: {}
+date: 2018-02-27T00:00:00.000Z
 summary: 'Now, Pixyll is lighter weight and more customizable than before.'
 categories: jekyll pixyll
 published: false
