@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About Me
-permalink: https://www.gsundeep.in
+redirect_to:
+  - https://www.gsundeep.in
+permalink: /about/
 tags: about
 ---
