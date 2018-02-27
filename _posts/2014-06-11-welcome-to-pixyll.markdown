@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Hello, Pixyll'
-date: {}
+date: 2018-02-27T00:00:00.000Z
 summary: >-
   Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather
   than aesthetic fluff.
 categories: jekyll pixyll
-published: true
+published: false
 ---
 
 Hello.
