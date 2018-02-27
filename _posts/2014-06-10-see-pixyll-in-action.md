@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pixyll in Action
-date: {}
+date: 2018-02-28T00:00:00.000Z
 summary: >-
   See what the different elements looks like. Your markdown has never looked
   better. I promise.
